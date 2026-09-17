@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "question": "Мне нравится побеждать в шахматы?",
+        "scale": "attitude_to_victory"
+    },
+    {
+        "id": 2,
+        "question": "Я радуюсь, когда мой друг выигрывает?",
+        "scale": "social_maturity"
+    },
+    {
+        "id": 3,
+        "question": "После победы мне хочется сразу же играть снова?",
+        "scale": "attitude_to_victory"
+    },
+    {
+        "id": 4,
+        "question": "После проигрыша я расстраиваюсь и не хочу больше играть?",
+        "scale": "reflection"
+    },
+    {
+        "id": 5,
+        "question": "Я могу объяснить, почему проиграл?",
+        "scale": "reaction_to_defeat"
+    },
+    {
+        "id": 6,
+        "question": "Мне обидно, если я проигрываю даже на тренировке?",
+        "scale": "reflection"
+    },
+    {
+        "id": 7,
+        "question": "Я стараюсь найти свои ошибки после проигранной партии?",
+        "scale": "reaction_to_defeat"
+    },
+    {
+        "id": 8,
+        "question": "Иногда мне кажется, что просто не повезло?",
+        "scale": "emotional_stability"
+    },
+    {
+        "id": 9,
+        "question": "Мне приятно, когда я сыграл хорошо, даже если не победил?",
+        "scale": "reaction_to_defeat"
+    },
+    {
+        "id": 10,
+        "question": "Мне стыдно показаться другим после проигрыша?",
+        "scale": "reflection"
+    },
+    {
+        "id": 11,
+        "question": "Я злюсь на себя после проигрыша?",
+        "scale": "reflection"
+    },
+    {
+        "id": 12,
+        "question": "Я могу поздравить соперника с победой?",
+        "scale": "social_maturity"
+    },
+    {
+        "id": 13,
+        "question": "Мне трудно сосредоточиться на следующей партии после поражения?",
+        "scale": "emotional_stability"
+    },
+    {
+        "id": 14,
+        "question": "Мне кажется, что родители или тренер разочарованы мной?",
+        "scale": "emotional_stability"
+    },
+    {
+        "id": 15,
+        "question": "После победы я чувствую гордость за себя?",
+        "scale": "attitude_to_victory"
+    },
+    {
+        "id": 16,
+        "question": "Я думаю, что мои успехи — потому что я много тренируюсь?",
+        "scale": "social_maturity"
+    },
+    {
+        "id": 17,
+        "question": "Я знаю, над чем нужно работать после проигрыша?",
+        "scale": "emotional_stability"
+    },
+    {
+        "id": 18,
+        "question": "Я могу радоваться победе соперника, если он играл лучше меня?",
+        "scale": "social_maturity"
+    },
+    {
+        "id": 19,
+        "question": "После победы мне хочется рассказать об этом друзьям?",
+        "scale": "attitude_to_victory"
+    },
+    {
+        "id": 20,
+        "question": "Мне интересно разбирать свои проигранные партии?",
+        "scale": "reaction_to_defeat"
+    }
+]
